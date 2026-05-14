@@ -1,6 +1,8 @@
 let nome = "Arthas";
 let xp = 7500;
- let nivel = '';
+let nivel = '';
+
+ 
 
  // estrutura condicional
  if (xp<= 1000) {
